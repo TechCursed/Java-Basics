@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ArrayLists {
+class J05_ArrayLists {
 
     public static void main(String args[])
     {
